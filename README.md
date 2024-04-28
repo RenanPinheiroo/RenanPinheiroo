@@ -1,6 +1,6 @@
 My name is Renan Almeida, and I'm currently studying Computer Programming at Georgian College in Toronto. I'm a graduate of the Java program at Santander Bootcamp
 
-You can find me
+You can find me:
 
 <p>
   <a href="https://www.linkedin.com/in/renan-almeida-987652bb" rel="nofollow noreferrer">
