@@ -3,8 +3,7 @@ My name is Renan Almeida, and I'm currently studying Computer Programming at Geo
 You can find me
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/renan-almeida-987652bb/))
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub]([https://github.com/](https://www.linkedin.com/in/renan-almeida-987652bb/))
+
 
 <!--
 **RenanPinheiroo/RenanPinheiroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
