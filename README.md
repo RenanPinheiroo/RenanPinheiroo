@@ -2,7 +2,15 @@ My name is Renan Almeida, and I'm currently studying Computer Programming at Geo
 
 You can find me
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/renan-almeida-987652bb/))
+<p>
+  <a href="https://www.linkedin.com/in/renan-almeida-987652bb" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://www.instagram.com/renan.pinheiroo/" rel="nofollow noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/3621/3621435.png"| width=23 alt="Instagram"> Instagram
+  </a>
+</p>
+
 
 
 <!--
